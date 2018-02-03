@@ -7,7 +7,7 @@ package pruebagit;
 
 /**
  *
- * @author Gerardo Admin pruebaprueba git git
+ * @author Gerardo Admin pruebaprueba git git prueba 1 synch sincroniza ramal
  */
 public class PruebaGit {
 
